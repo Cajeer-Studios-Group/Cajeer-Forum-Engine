@@ -26,7 +26,7 @@ Cajeer Forum Engine 3 - https://cajeer.ru/cek/demo/
 * Discussion - https://cajeer.ru/profile/discussions/
 
 ## Description
-**** - 
+**Cajeer Forum Engine** (abbr. **CFE**) is open source software (Open-source software) for organizing web forums, developed by the Russian studio Cajeer Software (formerly Cajeer Developers). Entirely written in PHP, uses MySQL as a database. The development was started in 2019, but from 2019 to 2021 the software was commercial, and starting from 2022 the software was completely rewritten by new authors and received the status of open source software and therefore the 2022 version can rightfully be considered the third version of the software . The main software languages are English, Spanish, Russian and French, there are also German and Italian localizations.
 
 ## About the project
 
